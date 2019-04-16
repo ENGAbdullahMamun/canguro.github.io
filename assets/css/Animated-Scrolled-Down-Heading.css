@@ -37,3 +37,9 @@
   margin-bottom: -40px;
 }
 
+@media (max-width: 576px) {
+  .navbar.navbar-light.navbar-expand-md.navigation-clean.navbar-inverse.navbar-fixed-top.nav {
+    margin-top: 12%;
+  }
+}
+
